@@ -19,15 +19,15 @@
   "dependencies": {
     "@netlify/plugin-gatsby": "^3.4.6",
     "cypress": "^10.0.3",
-    "gatsby": "^4.5.4",
-    "gatsby-plugin-manifest": "^4.14.0",
+    "gatsby": "^5.13.7",
+    "gatsby-plugin-manifest": "^5.13.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-helmet": "^6.1.0",
     "react-slick": "^0.29.0"
   },
   "devDependencies": {
-    "gatsby-plugin-netlify": "^5.0.0",
+    "gatsby-plugin-netlify": "^5.1.1",
     "netlify-plugin-cypress": "~2.2.0",
     "plop": "^3.0.5",
     "prettier": "^2.6.2"
